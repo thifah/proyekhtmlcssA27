@@ -1,0 +1,43 @@
+/*Untuk Tablet*/
+@media (max-width: 1000px) {
+	.isi {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+	h1 {
+		font-size: 20px;
+	}
+	.deskripsi {
+		font-size: 11px;
+	}
+}
+
+/*Untuk Smartphone*/
+@media (max-width: 670px) {
+	.isi {
+		width: 100%;
+	}
+	h1 {
+		font-size: 10px;
+	}
+	.isiposting h2{
+		font-size: 10px;
+	}
+	.deskripsi {
+		font-size: 8px;
+	}
+	.gambardepan {
+		height: 109px;
+		width: 107px;
+		margin-right: 20px;
+		margin-top: 19px;
+		margin-bottom: 5px;
+		padding: 1px;
+		border-radius: 25px;
+	}
+}
+
+footer {
+	text-align: center;
+}
+
